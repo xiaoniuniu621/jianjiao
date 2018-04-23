@@ -1,0 +1,8 @@
+1. server文件下需要npm install 如果仍然提示mongoose模块未安装，就用
+cnpm安装mongoose模块
+
+2.用mongodb文件夹中启动数据库  （命令：mongod --dbpath 数据库路径）
+
+3.在server文件下启动命令行 输入npm start命令（链接成功mongodb命令行有提示信息）
+
+4.可以登陆注册了！
